@@ -9,7 +9,7 @@ A aplicação consiste em realizar um contador de quantas águas e cafés o prog
 # 🖥️ Tecnologias utilizadas
 - 📱 React Native
 
-# Autor
+# 👦 Autor
 <a href="https://github.com/MarceloCChaves">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62251064?s=400&u=b1c8da11d91445ccb2d97b709ccbcd0524885d98&v=4" width="100px;" alt=""/>
  <br />
